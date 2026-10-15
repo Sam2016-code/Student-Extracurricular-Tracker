@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Flask session files
+flask_session/
+
+# VS Code settings
+.vscode/
+
+# Local data files
+students.json
+activities.json
